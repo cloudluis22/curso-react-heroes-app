@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.js": "/cloudluis22/curso-react-heroes-app/static/js/main.2ba721b4.chunk.js",
+    "main.js.map": "/cloudluis22/curso-react-heroes-app/static/js/main.2ba721b4.chunk.js.map",
+    "runtime-main.js": "/cloudluis22/curso-react-heroes-app/static/js/runtime-main.00dab121.js",
+    "runtime-main.js.map": "/cloudluis22/curso-react-heroes-app/static/js/runtime-main.00dab121.js.map",
+    "static/js/2.a58227f4.chunk.js": "/cloudluis22/curso-react-heroes-app/static/js/2.a58227f4.chunk.js",
+    "static/js/2.a58227f4.chunk.js.map": "/cloudluis22/curso-react-heroes-app/static/js/2.a58227f4.chunk.js.map",
+    "index.html": "/cloudluis22/curso-react-heroes-app/index.html",
+    "static/js/2.a58227f4.chunk.js.LICENSE.txt": "/cloudluis22/curso-react-heroes-app/static/js/2.a58227f4.chunk.js.LICENSE.txt",
+    "static/media/dc-arrow.jpg": "/cloudluis22/curso-react-heroes-app/static/media/dc-arrow.15b27bc2.jpg",
+    "static/media/dc-batman.jpg": "/cloudluis22/curso-react-heroes-app/static/media/dc-batman.ab9eadc3.jpg",
+    "static/media/dc-black.jpg": "/cloudluis22/curso-react-heroes-app/static/media/dc-black.3747c663.jpg",
+    "static/media/dc-blue.jpg": "/cloudluis22/curso-react-heroes-app/static/media/dc-blue.cc8169a3.jpg",
+    "static/media/dc-flash.jpg": "/cloudluis22/curso-react-heroes-app/static/media/dc-flash.b3922f25.jpg",
+    "static/media/dc-green.jpg": "/cloudluis22/curso-react-heroes-app/static/media/dc-green.01c54ee1.jpg",
+    "static/media/dc-martian.jpg": "/cloudluis22/curso-react-heroes-app/static/media/dc-martian.78565f7d.jpg",
+    "static/media/dc-robin.jpg": "/cloudluis22/curso-react-heroes-app/static/media/dc-robin.ea4afe99.jpg",
+    "static/media/dc-superman.jpg": "/cloudluis22/curso-react-heroes-app/static/media/dc-superman.e9391474.jpg",
+    "static/media/dc-wonder.jpg": "/cloudluis22/curso-react-heroes-app/static/media/dc-wonder.970ba2d6.jpg",
+    "static/media/marvel-captain.jpg": "/cloudluis22/curso-react-heroes-app/static/media/marvel-captain.d2c7774d.jpg",
+    "static/media/marvel-cyclops.jpg": "/cloudluis22/curso-react-heroes-app/static/media/marvel-cyclops.f1442408.jpg",
+    "static/media/marvel-daredevil.jpg": "/cloudluis22/curso-react-heroes-app/static/media/marvel-daredevil.2f4f1a57.jpg",
+    "static/media/marvel-hawkeye.jpg": "/cloudluis22/curso-react-heroes-app/static/media/marvel-hawkeye.1f78e874.jpg",
+    "static/media/marvel-hulk.jpg": "/cloudluis22/curso-react-heroes-app/static/media/marvel-hulk.d1af5fe5.jpg",
+    "static/media/marvel-iron.jpg": "/cloudluis22/curso-react-heroes-app/static/media/marvel-iron.b394df11.jpg",
+    "static/media/marvel-silver.jpg": "/cloudluis22/curso-react-heroes-app/static/media/marvel-silver.1d43a08b.jpg",
+    "static/media/marvel-spider.jpg": "/cloudluis22/curso-react-heroes-app/static/media/marvel-spider.054016b4.jpg",
+    "static/media/marvel-thor.jpg": "/cloudluis22/curso-react-heroes-app/static/media/marvel-thor.c63e651c.jpg",
+    "static/media/marvel-wolverine.jpg": "/cloudluis22/curso-react-heroes-app/static/media/marvel-wolverine.ee676488.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00dab121.js",
+    "static/js/2.a58227f4.chunk.js",
+    "static/js/main.2ba721b4.chunk.js"
+  ]
+}
